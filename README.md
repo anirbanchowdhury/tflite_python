@@ -4,7 +4,7 @@ Download https://github.com/anirbanchowdhury/tflite_python/archive/refs/heads/ma
 Unzip into a directory of choice 
 cd <unzipped folder>
 pip install -r requirements.txt 
-python3 tflite1.py
+python tflite1.py
 ```
 
 
